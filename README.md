@@ -1,2 +1,2 @@
-# growth-analytics-portfolio
-Data analytics projects, business case studies, and strategy presentations focused on growth, revenue optimization, and go-to-market execution.
+# Data-analytics-and-work-portfolio
+Data analytics projects, business case studies, and strategy presentations focused on growth, business strategy, and go-to-market execution.
